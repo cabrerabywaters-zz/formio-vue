@@ -36,11 +36,11 @@ const SMS = class {
       let Sender = require('aws-sms-send')
         let config = {
           AWS: {
-            accessKeyId: 'AKIAIOGX3P7MOZZSSV2A',
-            secretAccessKey: '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',
-            region: 'eu-west-1'
+            accessKeyId: '',
+            secretAccessKey: '',
+            region: ''
           },
-          topicArn: 'arn:aws:sns:eu-west-1:839360539511:fastPoc'
+          topicArn: ''
         }
          
         let sender = new Sender(config)
