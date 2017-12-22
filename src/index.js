@@ -7,7 +7,6 @@ export function install (Vue) {
 
 // Expose the components
 export {
-  Test,
   Formio,
   /* -- Add more components here -- */
 }
