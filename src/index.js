@@ -1,14 +1,16 @@
 import Test from './components/Test.vue'
-
+import Formio from './components/formio/formio.vue'
 // Install the components
 export function install (Vue) {
   Vue.component('test', Test)
+  Vue.component('formio', Formio)
   /* -- Add more components here -- */
 }
 
 // Expose the components
 export {
   Test,
+  Formio,
   /* -- Add more components here -- */
 }
 

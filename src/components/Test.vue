@@ -1,6 +1,6 @@
 <template>
   <div class="test">
-    <h1>Hello formio-vue!</h1>
+    <h1>Hello formio-vu!</h1>
     <input v-model="name" placeholder="Name" />
   </div>
 </template>
