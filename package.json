@@ -1,7 +1,7 @@
 {
   "name": "formio-vue",
   "description": "A Vue.js Plugin for Formio",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "author": {
     "name": "Ignacio Cabrera",
     "email": "cabrerabywaters@gmail.com"
